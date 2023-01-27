@@ -1,0 +1,15 @@
+D:\OneDrive - Educantabria\AprendiendoC\EjercicioPracticoHerencia\bin\Debug\net7.0\EjercicioPracticoHerencia.exe
+D:\OneDrive - Educantabria\AprendiendoC\EjercicioPracticoHerencia\bin\Debug\net7.0\EjercicioPracticoHerencia.deps.json
+D:\OneDrive - Educantabria\AprendiendoC\EjercicioPracticoHerencia\bin\Debug\net7.0\EjercicioPracticoHerencia.runtimeconfig.json
+D:\OneDrive - Educantabria\AprendiendoC\EjercicioPracticoHerencia\bin\Debug\net7.0\EjercicioPracticoHerencia.dll
+D:\OneDrive - Educantabria\AprendiendoC\EjercicioPracticoHerencia\bin\Debug\net7.0\EjercicioPracticoHerencia.pdb
+D:\OneDrive - Educantabria\AprendiendoC\EjercicioPracticoHerencia\obj\Debug\net7.0\EjercicioPracticoHerencia.csproj.AssemblyReference.cache
+D:\OneDrive - Educantabria\AprendiendoC\EjercicioPracticoHerencia\obj\Debug\net7.0\EjercicioPracticoHerencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Educantabria\AprendiendoC\EjercicioPracticoHerencia\obj\Debug\net7.0\EjercicioPracticoHerencia.AssemblyInfoInputs.cache
+D:\OneDrive - Educantabria\AprendiendoC\EjercicioPracticoHerencia\obj\Debug\net7.0\EjercicioPracticoHerencia.AssemblyInfo.cs
+D:\OneDrive - Educantabria\AprendiendoC\EjercicioPracticoHerencia\obj\Debug\net7.0\EjercicioPracticoHerencia.csproj.CoreCompileInputs.cache
+D:\OneDrive - Educantabria\AprendiendoC\EjercicioPracticoHerencia\obj\Debug\net7.0\EjercicioPracticoHerencia.dll
+D:\OneDrive - Educantabria\AprendiendoC\EjercicioPracticoHerencia\obj\Debug\net7.0\refint\EjercicioPracticoHerencia.dll
+D:\OneDrive - Educantabria\AprendiendoC\EjercicioPracticoHerencia\obj\Debug\net7.0\EjercicioPracticoHerencia.pdb
+D:\OneDrive - Educantabria\AprendiendoC\EjercicioPracticoHerencia\obj\Debug\net7.0\EjercicioPracticoHerencia.genruntimeconfig.cache
+D:\OneDrive - Educantabria\AprendiendoC\EjercicioPracticoHerencia\obj\Debug\net7.0\ref\EjercicioPracticoHerencia.dll

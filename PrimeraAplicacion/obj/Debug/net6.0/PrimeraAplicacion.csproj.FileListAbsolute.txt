@@ -1,0 +1,15 @@
+C:\Users\carra\source\repos\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.exe
+C:\Users\carra\source\repos\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.deps.json
+C:\Users\carra\source\repos\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.runtimeconfig.json
+C:\Users\carra\source\repos\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.dll
+C:\Users\carra\source\repos\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.pdb
+C:\Users\carra\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\carra\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carra\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.AssemblyInfoInputs.cache
+C:\Users\carra\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.AssemblyInfo.cs
+C:\Users\carra\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\carra\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.dll
+C:\Users\carra\source\repos\PrimeraAplicacion\obj\Debug\net6.0\refint\PrimeraAplicacion.dll
+C:\Users\carra\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.pdb
+C:\Users\carra\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.genruntimeconfig.cache
+C:\Users\carra\source\repos\PrimeraAplicacion\obj\Debug\net6.0\ref\PrimeraAplicacion.dll

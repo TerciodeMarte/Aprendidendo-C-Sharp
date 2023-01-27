@@ -1,0 +1,5 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: Arrays, configuración: Debug Any CPU ------
+1>Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>Arrays -> C:\Users\carra\source\repos\Arrays\Arrays\bin\Debug\net6.0\Arrays.dll
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========

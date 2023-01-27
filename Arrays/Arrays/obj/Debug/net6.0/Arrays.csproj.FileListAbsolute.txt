@@ -1,0 +1,15 @@
+C:\Users\carra\source\repos\Arrays\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Users\carra\source\repos\Arrays\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Users\carra\source\repos\Arrays\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Users\carra\source\repos\Arrays\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Users\carra\source\repos\Arrays\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Users\carra\source\repos\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\carra\source\repos\Arrays\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carra\source\repos\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\carra\source\repos\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Users\carra\source\repos\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\carra\source\repos\Arrays\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Users\carra\source\repos\Arrays\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+C:\Users\carra\source\repos\Arrays\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Users\carra\source\repos\Arrays\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+C:\Users\carra\source\repos\Arrays\Arrays\obj\Debug\net6.0\ref\Arrays.dll

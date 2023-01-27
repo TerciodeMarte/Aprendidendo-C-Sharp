@@ -1,0 +1,15 @@
+D:\OneDrive - Educantabria\AprendiendoC\Interfaces\bin\Debug\net7.0\UsoInterfaces.exe
+D:\OneDrive - Educantabria\AprendiendoC\Interfaces\bin\Debug\net7.0\UsoInterfaces.deps.json
+D:\OneDrive - Educantabria\AprendiendoC\Interfaces\bin\Debug\net7.0\UsoInterfaces.runtimeconfig.json
+D:\OneDrive - Educantabria\AprendiendoC\Interfaces\bin\Debug\net7.0\UsoInterfaces.dll
+D:\OneDrive - Educantabria\AprendiendoC\Interfaces\bin\Debug\net7.0\UsoInterfaces.pdb
+D:\OneDrive - Educantabria\AprendiendoC\Interfaces\obj\Debug\net7.0\UsoInterfaces.csproj.AssemblyReference.cache
+D:\OneDrive - Educantabria\AprendiendoC\Interfaces\obj\Debug\net7.0\UsoInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Educantabria\AprendiendoC\Interfaces\obj\Debug\net7.0\UsoInterfaces.AssemblyInfoInputs.cache
+D:\OneDrive - Educantabria\AprendiendoC\Interfaces\obj\Debug\net7.0\UsoInterfaces.AssemblyInfo.cs
+D:\OneDrive - Educantabria\AprendiendoC\Interfaces\obj\Debug\net7.0\UsoInterfaces.csproj.CoreCompileInputs.cache
+D:\OneDrive - Educantabria\AprendiendoC\Interfaces\obj\Debug\net7.0\UsoInterfaces.dll
+D:\OneDrive - Educantabria\AprendiendoC\Interfaces\obj\Debug\net7.0\refint\UsoInterfaces.dll
+D:\OneDrive - Educantabria\AprendiendoC\Interfaces\obj\Debug\net7.0\UsoInterfaces.pdb
+D:\OneDrive - Educantabria\AprendiendoC\Interfaces\obj\Debug\net7.0\UsoInterfaces.genruntimeconfig.cache
+D:\OneDrive - Educantabria\AprendiendoC\Interfaces\obj\Debug\net7.0\ref\UsoInterfaces.dll

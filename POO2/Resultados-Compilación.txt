@@ -1,0 +1,5 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: POO2, configuración: Debug Any CPU ------
+1>Omitiendo analizadores para acelerar la compilación. Puede ejecutar los comandos "Build" o "Rebuild" para ejecutar los analizadores.
+1>POO2 -> C:\Users\carra\source\repos\POO2\POO2\bin\Debug\net6.0\POO2.dll
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========

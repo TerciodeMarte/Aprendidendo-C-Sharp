@@ -1,0 +1,15 @@
+C:\Users\carra\source\repos\POO1\POO1\bin\Debug\net6.0\POO1.exe
+C:\Users\carra\source\repos\POO1\POO1\bin\Debug\net6.0\POO1.deps.json
+C:\Users\carra\source\repos\POO1\POO1\bin\Debug\net6.0\POO1.runtimeconfig.json
+C:\Users\carra\source\repos\POO1\POO1\bin\Debug\net6.0\POO1.dll
+C:\Users\carra\source\repos\POO1\POO1\bin\Debug\net6.0\POO1.pdb
+C:\Users\carra\source\repos\POO1\POO1\obj\Debug\net6.0\POO1.csproj.AssemblyReference.cache
+C:\Users\carra\source\repos\POO1\POO1\obj\Debug\net6.0\POO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carra\source\repos\POO1\POO1\obj\Debug\net6.0\POO1.AssemblyInfoInputs.cache
+C:\Users\carra\source\repos\POO1\POO1\obj\Debug\net6.0\POO1.AssemblyInfo.cs
+C:\Users\carra\source\repos\POO1\POO1\obj\Debug\net6.0\POO1.csproj.CoreCompileInputs.cache
+C:\Users\carra\source\repos\POO1\POO1\obj\Debug\net6.0\POO1.dll
+C:\Users\carra\source\repos\POO1\POO1\obj\Debug\net6.0\refint\POO1.dll
+C:\Users\carra\source\repos\POO1\POO1\obj\Debug\net6.0\POO1.pdb
+C:\Users\carra\source\repos\POO1\POO1\obj\Debug\net6.0\POO1.genruntimeconfig.cache
+C:\Users\carra\source\repos\POO1\POO1\obj\Debug\net6.0\ref\POO1.dll

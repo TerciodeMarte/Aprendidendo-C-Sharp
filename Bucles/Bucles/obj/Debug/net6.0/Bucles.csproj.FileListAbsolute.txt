@@ -1,0 +1,15 @@
+C:\Users\carra\source\repos\Bucles\Bucles\bin\Debug\net6.0\Bucles.exe
+C:\Users\carra\source\repos\Bucles\Bucles\bin\Debug\net6.0\Bucles.deps.json
+C:\Users\carra\source\repos\Bucles\Bucles\bin\Debug\net6.0\Bucles.runtimeconfig.json
+C:\Users\carra\source\repos\Bucles\Bucles\bin\Debug\net6.0\Bucles.dll
+C:\Users\carra\source\repos\Bucles\Bucles\bin\Debug\net6.0\Bucles.pdb
+C:\Users\carra\source\repos\Bucles\Bucles\obj\Debug\net6.0\Bucles.csproj.AssemblyReference.cache
+C:\Users\carra\source\repos\Bucles\Bucles\obj\Debug\net6.0\Bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carra\source\repos\Bucles\Bucles\obj\Debug\net6.0\Bucles.AssemblyInfoInputs.cache
+C:\Users\carra\source\repos\Bucles\Bucles\obj\Debug\net6.0\Bucles.AssemblyInfo.cs
+C:\Users\carra\source\repos\Bucles\Bucles\obj\Debug\net6.0\Bucles.csproj.CoreCompileInputs.cache
+C:\Users\carra\source\repos\Bucles\Bucles\obj\Debug\net6.0\Bucles.dll
+C:\Users\carra\source\repos\Bucles\Bucles\obj\Debug\net6.0\refint\Bucles.dll
+C:\Users\carra\source\repos\Bucles\Bucles\obj\Debug\net6.0\Bucles.pdb
+C:\Users\carra\source\repos\Bucles\Bucles\obj\Debug\net6.0\Bucles.genruntimeconfig.cache
+C:\Users\carra\source\repos\Bucles\Bucles\obj\Debug\net6.0\ref\Bucles.dll

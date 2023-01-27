@@ -1,0 +1,15 @@
+C:\Users\carra\source\repos\excepciones\excepciones\bin\Debug\net6.0\excepciones.exe
+C:\Users\carra\source\repos\excepciones\excepciones\bin\Debug\net6.0\excepciones.deps.json
+C:\Users\carra\source\repos\excepciones\excepciones\bin\Debug\net6.0\excepciones.runtimeconfig.json
+C:\Users\carra\source\repos\excepciones\excepciones\bin\Debug\net6.0\excepciones.dll
+C:\Users\carra\source\repos\excepciones\excepciones\bin\Debug\net6.0\excepciones.pdb
+C:\Users\carra\source\repos\excepciones\excepciones\obj\Debug\net6.0\excepciones.csproj.AssemblyReference.cache
+C:\Users\carra\source\repos\excepciones\excepciones\obj\Debug\net6.0\excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carra\source\repos\excepciones\excepciones\obj\Debug\net6.0\excepciones.AssemblyInfoInputs.cache
+C:\Users\carra\source\repos\excepciones\excepciones\obj\Debug\net6.0\excepciones.AssemblyInfo.cs
+C:\Users\carra\source\repos\excepciones\excepciones\obj\Debug\net6.0\excepciones.csproj.CoreCompileInputs.cache
+C:\Users\carra\source\repos\excepciones\excepciones\obj\Debug\net6.0\excepciones.dll
+C:\Users\carra\source\repos\excepciones\excepciones\obj\Debug\net6.0\refint\excepciones.dll
+C:\Users\carra\source\repos\excepciones\excepciones\obj\Debug\net6.0\excepciones.pdb
+C:\Users\carra\source\repos\excepciones\excepciones\obj\Debug\net6.0\excepciones.genruntimeconfig.cache
+C:\Users\carra\source\repos\excepciones\excepciones\obj\Debug\net6.0\ref\excepciones.dll
