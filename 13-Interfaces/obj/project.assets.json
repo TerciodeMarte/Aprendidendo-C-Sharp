@@ -8,24 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\carra\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\carra\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive - Educantabria\\AprendiendoC\\Interfaces\\UsoInterfaces.csproj",
+      "projectUniqueName": "E:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\13-Interfaces\\UsoInterfaces.csproj",
       "projectName": "UsoInterfaces",
-      "projectPath": "D:\\OneDrive - Educantabria\\AprendiendoC\\Interfaces\\UsoInterfaces.csproj",
+      "projectPath": "E:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\13-Interfaces\\UsoInterfaces.csproj",
       "packagesPath": "C:\\Users\\carra\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive - Educantabria\\AprendiendoC\\Interfaces\\obj\\",
+      "outputPath": "E:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\13-Interfaces\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\carra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

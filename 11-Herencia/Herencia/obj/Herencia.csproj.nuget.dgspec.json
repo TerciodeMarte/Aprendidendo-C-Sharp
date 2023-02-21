@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\OneDrive - Educantabria\\AprendiendoC\\Herencia\\Herencia\\Herencia.csproj": {}
+    "E:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\11-Herencia\\Herencia\\Herencia.csproj": {}
   },
   "projects": {
-    "C:\\OneDrive - Educantabria\\AprendiendoC\\Herencia\\Herencia\\Herencia.csproj": {
+    "E:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\11-Herencia\\Herencia\\Herencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OneDrive - Educantabria\\AprendiendoC\\Herencia\\Herencia\\Herencia.csproj",
+        "projectUniqueName": "E:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\11-Herencia\\Herencia\\Herencia.csproj",
         "projectName": "Herencia",
-        "projectPath": "C:\\OneDrive - Educantabria\\AprendiendoC\\Herencia\\Herencia\\Herencia.csproj",
+        "projectPath": "E:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\11-Herencia\\Herencia\\Herencia.csproj",
         "packagesPath": "C:\\Users\\carra\\.nuget\\packages\\",
-        "outputPath": "C:\\OneDrive - Educantabria\\AprendiendoC\\Herencia\\Herencia\\obj\\",
+        "outputPath": "E:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\11-Herencia\\Herencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
