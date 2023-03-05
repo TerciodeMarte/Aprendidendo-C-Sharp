@@ -1,0 +1,15 @@
+E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\bin\Debug\net6.0\16-Properties.exe
+E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\bin\Debug\net6.0\16-Properties.deps.json
+E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\bin\Debug\net6.0\16-Properties.runtimeconfig.json
+E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\bin\Debug\net6.0\16-Properties.dll
+E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\bin\Debug\net6.0\16-Properties.pdb
+E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\obj\Debug\net6.0\16-Properties.csproj.AssemblyReference.cache
+E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\obj\Debug\net6.0\16-Properties.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\obj\Debug\net6.0\16-Properties.AssemblyInfoInputs.cache
+E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\obj\Debug\net6.0\16-Properties.AssemblyInfo.cs
+E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\obj\Debug\net6.0\16-Properties.csproj.CoreCompileInputs.cache
+E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\obj\Debug\net6.0\16-Properties.dll
+E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\obj\Debug\net6.0\refint\16-Properties.dll
+E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\obj\Debug\net6.0\16-Properties.pdb
+E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\obj\Debug\net6.0\16-Properties.genruntimeconfig.cache
+E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\obj\Debug\net6.0\ref\16-Properties.dll
