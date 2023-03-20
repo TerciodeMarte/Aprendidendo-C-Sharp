@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\16-Properties\\16-Properties.csproj": {}
   },
   "projects": {
@@ -13,19 +12,6 @@
         "projectPath": "C:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\16-Properties\\16-Properties.csproj",
         "packagesPath": "C:\\Users\\carra\\.nuget\\packages\\",
         "outputPath": "C:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\16-Properties\\obj\\",
-=======
-    "E:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\16-Properties\\16-Properties.csproj": {}
-  },
-  "projects": {
-    "E:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\16-Properties\\16-Properties.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "E:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\16-Properties\\16-Properties.csproj",
-        "projectName": "16-Properties",
-        "projectPath": "E:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\16-Properties\\16-Properties.csproj",
-        "packagesPath": "C:\\Users\\carra\\.nuget\\packages\\",
-        "outputPath": "E:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\16-Properties\\obj\\",
->>>>>>> 1e483f5ead63964aa958950f5e962bbb87a60144
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carra\\AppData\\Roaming\\NuGet\\NuGet.Config",

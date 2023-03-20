@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "nezLdaj4f3TPSWmnNrqJZ8i6Ol7FF1+N23w8YA/VRRb9mLkzamX0EucVtbPMoTMGVFGxqBhzhUEBBo+Z5/0rgQ==",
   "success": true,
   "projectFilePath": "C:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\16-Properties\\16-Properties.csproj",
-=======
-  "dgSpecHash": "te0EZjXXrP++PZESjf8HkTNT8YmNcI9+QdTXFuLU6tJc9fHHNUbcFWGtmEr5t6JeDHjezFzEjtQt3/RE4cunog==",
-  "success": true,
-  "projectFilePath": "E:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\16-Properties\\16-Properties.csproj",
->>>>>>> 1e483f5ead63964aa958950f5e962bbb87a60144
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\OneDrive - Educantabria\\AprendiendoC\\Aprendidendo-C-Sharp\\16-Properties\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

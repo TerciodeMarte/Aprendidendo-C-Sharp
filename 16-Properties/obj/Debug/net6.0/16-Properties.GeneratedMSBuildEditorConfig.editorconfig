@@ -8,8 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _16_Properties
-<<<<<<< HEAD
 build_property.ProjectDir = C:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\
-=======
-build_property.ProjectDir = E:\OneDrive - Educantabria\AprendiendoC\Aprendidendo-C-Sharp\16-Properties\
->>>>>>> 1e483f5ead63964aa958950f5e962bbb87a60144
